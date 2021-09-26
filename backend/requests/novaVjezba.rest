@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/vjezbe
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sYWNhIiwiaWQiOiI2MDg1OWQ1NzRiYTlkMTE4MjRhZmVmNjAiLCJpYXQiOjE2MTkzODQ3MDF9.D8w8GoXJ7l812UDe9msgkzKy1kxNoOl4L9zZygUWlFY
+
+{
+    "naziv":" neka vjezba",
+    "kategorija":" kategorija",
+    "beginner":true,
+    "intermediate":false,
+    "expert":true,
+    "oprema":false,
+    "videoId":"454dss",
+    "korisnikId": "60859d574ba9d11824afef60"
+
+}

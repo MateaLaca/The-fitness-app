@@ -1,0 +1,7 @@
+POST http://192.168.43.250:3001/api/login
+content-type: application/json
+
+{
+    "username": "mlaca",
+    "pass":"strong"
+}

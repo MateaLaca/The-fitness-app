@@ -1,0 +1,8 @@
+PATCH http://localhost:3001/api/korisnici/60859d574ba9d11824afef60
+content-type: application/json
+
+{
+    "vjezbe": [ "6082c8dfca710c1ffc203cb0", "6082ca3aefec2d27ccf49a06"  ],
+    "username": "mlaca",
+    "id": "60859d574ba9d11824afef60"
+}
